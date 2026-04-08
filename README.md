@@ -2,6 +2,9 @@
 
 This project leverages the computing capabilities of the GPU using the **AMD HIP API** to generate visualizations of an arbitrary **Julia set**.
 
+!(/assets/images/julia_set_picture.png)
+Example picture currently implemented in the code
+
 ---
 Instructions:
 
